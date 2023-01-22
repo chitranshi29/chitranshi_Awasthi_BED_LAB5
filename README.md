@@ -1,4 +1,4 @@
-# Sindhuri_BED_LAB5
+# Chitranshi_Awasthi_BED_LAB5
 Problem Statement:
 Create an MVC project using Spring Boot & Thymeleaf (Employee Management System)  and perform the following operations using appropriate mappings
 
